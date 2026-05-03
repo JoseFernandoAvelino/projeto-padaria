@@ -10,7 +10,8 @@ Este repositório contém a **Entrega 01** do projeto de desenvolvimento de um S
 - **Prototipação em Baixa Fidelidade:** Wireframes criados no Figma estruturando o esqueleto visual das páginas.<br>
   [Link para o design](https://www.figma.com/design/duQLSR4kQgvqdHLNpeyX8Q/ProjetoPadaria?node-id=0-1&t=y89OXRHP66XlRrmJ-1) | 
   [Link para o protótipo](https://www.figma.com/proto/duQLSR4kQgvqdHLNpeyX8Q/ProjetoPadaria?node-id=0-1&t=y89OXRHP66XlRrmJ-1)
-- **Front-end Funcional:** Implementação de 8 telas com navegação funcional entre elas.
+- **Front-end Funcional:** Implementação de 8 telas com navegação funcional entre elas.<br>
+  [Link para o Vercel](https://projeto-padaria-pi.vercel.app/)
 
 ## Tecnologias e Ferramentas Utilizadas
 - **Framework Web:** Next.js
@@ -21,7 +22,7 @@ Este repositório contém a **Entrega 01** do projeto de desenvolvimento de um S
 ## Telas Implementadas
 1. **Home:** Tela inicial e principal do sistema.
 2. **Catálogo de Produtos:** Catálogo dos itens disponíveis na padaria.
-3. **Detalhes do Produto:** Visão detalhada de um item para adição ao carrinho.
+3. **Detalhes do Produto(3):** Visão detalhada de um item para adição ao carrinho.
 4. **Carrinho:** Resumo dos itens selecionados e subtotal.
 5. **Login/Autenticação:** Tela de acesso/login do usuário.
 6. **Checkout:** Tela de confirmação de endereço e escolha do método de pagamento.
