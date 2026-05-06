@@ -26,3 +26,7 @@ Este repositório contém a **Entrega 01** do projeto de desenvolvimento de um S
 4. **Carrinho:** Resumo dos itens selecionados e subtotal.
 5. **Login/Autenticação:** Tela de acesso/login do usuário.
 6. **Checkout:** Tela de confirmação de endereço e escolha do método de pagamento.
+
+## Autores
+- José Fernando Avelino
+- João Pedro Holanda
