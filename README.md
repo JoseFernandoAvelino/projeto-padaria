@@ -10,23 +10,23 @@ Cumprindo os requisitos da segunda etapa do projeto, o sistema evoluiu de um pro
 * **Documentação Atualizada:**
   * Criação do **Diagrama de Classes**.
   * Atualização do **Diagrama de Casos de Uso**.
-  * Arquivos PNG com os Diagramas de Classes e de Casos de Uso foram anexados no repositório.
+  * Arquivos PNG com os **Diagramas de Classes** e de **Casos de Uso** foram anexados no repositório.
 * **Back-end & API:**
   * Desenvolvimento de uma API RESTful completa implementando mais de 4 casos de uso (Autenticação, Gestão de Produtos, Carrinho e Checkout, Histórico de Pedidos).
   * Endpoints documentados interativamente via **Swagger UI**.
-  * Arquivo PNG com a Swagger UI foi anexado no repositório.
+  * Arquivo PNG com a **Swagger UI** foi anexado no repositório.
 * **Banco de Dados:**
   * Persistência de dados implementada utilizando **PostgreSQL**.
   * Modelagem de tabelas essenciais (usuarios, produtos, pedidos, itens_pedido, carrinho, ...).
-  * Arquivos PNG com os dados da tabelas foram anexados na pasta TabelasBD no repositório.
+  * Arquivos PNG com os dados da tabelas foram anexados na pasta **TabelasBD** no repositório.
 * **Front-end Integrado:**
   * Adaptação do Next.js para consumir os endpoints da API real, substituindo dados estáticos por requisições dinâmicas.
 
 ## O que já foi desenvolvido na Entrega 01
 
-* **Prototipação em Baixa Fidelidade (Entrega 01):**
+* **Prototipação em Baixa Fidelidade:**
   * Wireframes criados no Figma estruturando o esqueleto visual das páginas.<br>
-  * [Link para o design](https://www.figma.com/design/duQLSR4kQgvqdHLNpeyX8Q/ProjetoPadaria?node-id=0-1&t=y89OXRHP66XlRrmJ-1) | 
+  * [Link para o design](https://www.figma.com/design/duQLSR4kQgvqdHLNpeyX8Q/ProjetoPadaria?node-id=0-1&t=y89OXRHP66XlRrmJ-1) 
   * [Link para o protótipo](https://www.figma.com/proto/duQLSR4kQgvqdHLNpeyX8Q/ProjetoPadaria?node-id=0-1&t=y89OXRHP66XlRrmJ-1)
 
 ## Tecnologias e Ferramentas Utilizadas
@@ -45,7 +45,7 @@ Cumprindo os requisitos da segunda etapa do projeto, o sistema evoluiu de um pro
 * **Prototipação:** Figma
 * **Modelagem UML:** Diagramas de Casos de Uso e Diagrama de Classes (Lucidchart)
 
-## Telas e Funcionalidades Implementadas
+## Telas Implementadas
 1. **Home:** 
 2. **Catálogo de Produtos:** 
 3. **Detalhes do Produto:** 
