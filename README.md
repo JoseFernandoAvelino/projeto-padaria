@@ -10,15 +10,15 @@ Cumprindo os requisitos da segunda etapa do projeto, o sistema evoluiu de um pro
 * **Documentação Atualizada:**
   * Criação do **Diagrama de Classes**.
   * Atualização do **Diagrama de Casos de Uso**.
-  * Arquivos PNG com os **Diagramas de Classes** e de **Casos de Uso** foram anexados no repositório.
+  * Arquivos PNG com os **Diagramas de Classes** e de **Casos de Uso** foram anexados na pasta **docs/diagramas** no repositório.
 * **Back-end & API:**
-  * Desenvolvimento de uma API RESTful completa implementando mais de 4 casos de uso (Autenticação, Gestão de Produtos, Carrinho e Checkout, Histórico de Pedidos).
+  * Desenvolvimento de uma API RESTful completa implementando os casos de uso.
   * Endpoints documentados interativamente via **Swagger UI**.
-  * Arquivo PNG com a **Swagger UI** foi anexado no repositório.
+  * Arquivo PNG com a **Swagger UI** foi anexado na pasta **docs/swaggerUI** no repositório.
 * **Banco de Dados:**
   * Persistência de dados implementada utilizando **PostgreSQL**.
   * Modelagem de tabelas essenciais (usuarios, produtos, pedidos, itens_pedido, carrinho, ...).
-  * Arquivos PNG com os dados da tabelas foram anexados na pasta **TabelasBD** no repositório.
+  * Arquivos PNG com os dados da tabelas foram anexados na pasta **docs/tabelasBD** no repositório.
 * **Front-end Integrado:**
   * Adaptação do Next.js para consumir os endpoints da API real, substituindo dados estáticos por requisições dinâmicas.
 
